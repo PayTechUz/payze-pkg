@@ -4,7 +4,7 @@ just pay method request parameters
 import uuid
 from dataclasses import dataclass
 
-from param.request import base
+from payze.param.request import base
 
 
 @dataclass

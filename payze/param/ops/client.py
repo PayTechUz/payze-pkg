@@ -3,7 +3,7 @@ the payze client ops
 """
 from dataclasses import dataclass
 
-from param.request.base import Hooks
+from payze.param.request.base import Hooks
 
 
 @dataclass

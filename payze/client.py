@@ -7,9 +7,10 @@ import logging
 from typing import Any
 from requests import Session, Response
 
-from param import PayzeOPS
-from param import request as payze_req
-from param import response as payze_res
+from payze.param import PayzeOPS
+from payze.param import request as payze_req
+from payze.param import response as payze_res
+
 
 logger = logging.getLogger(__name__)
 

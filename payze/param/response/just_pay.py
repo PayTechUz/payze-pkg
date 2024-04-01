@@ -1,7 +1,7 @@
 """
 the just_pay response model
 """
-from param.response import base
+from payze.param.response import base
 
 
 class JustPay(base.BaseModel):
