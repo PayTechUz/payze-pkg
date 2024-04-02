@@ -52,7 +52,8 @@ class Payze:
 
     def just_pay(
         self,
-        req_params: payze_req.JustPay
+        req_params: payze_req.JustPay,
+        **kwargs
     ) -> payze_res.JustPay:
         """
         the just pay method implementation
@@ -64,7 +65,12 @@ class Payze:
             idempotency_key=req_params.idempotency_key,
             metadata=req_params.metadata
         )
+
         req_params.hooks = self.hooks
+        req_params.metadata.extra_attributes = [
+            kwargs
+        ]
+
         req_data = json.dumps(req_params.to_dict())
 
         resp_data = self.__send_request(url, req_data, "PUT")

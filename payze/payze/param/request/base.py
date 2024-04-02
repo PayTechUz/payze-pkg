@@ -190,8 +190,8 @@ class Metadata:
                 for key, value in item.items():
                     extra_attributes.append(
                         ExtraAttributes(
-                            key=key,
-                            value=value
+                            key=str(key),
+                            value=str(value)
                         ).to_dict()
                     )
 
