@@ -27,25 +27,24 @@ payze = Payze(
         hooks=payze_req.Hooks(
             web_hook_gateway="https://mysite.com/v1/webhook/payze/success",
             error_redirect_gateway="https://mysite.com/v1/payment/payze/re-pay",
-            success_redirect_gateway="https://mysite.com/v1/payze/thanks",
+            success_redirect_gateway="https://mysite.com/v1/payment/payze/thanks",
         )
     )
 )
 
 metadata = payze_req.Metadata(
     order=payze_req.Order(123),
-    extra_attributes=[
-        {
-            "reason": "for_trip"
-        }
-    ]
 )
 
+req_params = payze_req.JustPay(
+    amount=1,
+    metadata=metadata,
+)
+
+# any kwarg fields are optional and can be extra attribute
 resp = payze.just_pay(
-    req_params=payze_req.JustPay(
-        amount=1,
-        metadata=metadata
-    )
+    req_params=req_params,
+    reason="for_trip",  # extra attribute example
 )
 
 print(resp.data.payment.payment_url)
