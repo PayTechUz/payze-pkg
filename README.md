@@ -51,7 +51,6 @@ print(resp.data.payment.payment_url)
 ```
 # Payment process at Payze
 
-## Insert card for payment:
 <img src="static/process.jpg" alt="Rasm 1" style="width: 200px; height: 400px">
 
 
