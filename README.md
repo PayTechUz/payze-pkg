@@ -51,7 +51,7 @@ print(resp.data.payment.payment_url)
 ```
 # Payment process at Payze
 
-<img src="static/process.jpg" alt="Rasm 1" style="width: 200px; height: 400px">
+<img src="static/process.jpg" alt="Sizning Rasm Manba" width="500" height="300">
 
 
 [//]: # (## Confirm payment button:)
