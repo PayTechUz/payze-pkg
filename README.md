@@ -52,9 +52,9 @@ print(resp.data.payment.payment_url)
 # Payment process at Payze
 
 <div style="display: flex;">
-    <img src="images/process.jpg" alt="Rasm 1" style="width: 33.33%;">
-    <img src="images/verify.jpg" alt="Rasm 2" style="width: 33.33%;">
-    <img src="images/success.jpg" alt="Rasm 3" style="width: 33.33%;">
+    <img src="static/process.jpg" alt="Rasm 1" style="width: 33.33%;">
+    <img src="static/verify.jpg" alt="Rasm 2" style="width: 33.33%;">
+    <img src="static/success.jpg" alt="Rasm 3" style="width: 33.33%;">
 </div>
 
 ##
