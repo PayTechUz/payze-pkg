@@ -51,25 +51,18 @@ print(resp.data.payment.payment_url)
 ```
 # Payment process at Payze
 
-[//]: # (<img src="static/p?rocess.jpg" alt="Rasm 1" style="width: 200px; height: 400px">)
-
-[//]: # (<div style="display: flex;">)
-
-[//]: # (    <img src="static/process.jpg" alt="Rasm 1" style="width: 33.33%;">)
-
-[//]: # (    <img src="static/verify.jpg" alt="Rasm 2" style="width: 33.33%;">)
-
-[//]: # (    <img src="static/success.jpg" alt="Rasm 3" style="width: 33.33%;">)
-
-[//]: # (</div>)
-
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
-    <img src="static/process.jpg" alt="Rasm 1">
-    <img src="static/verify.jpg" alt="Rasm 2">
-    <img src="static/success.jpg" alt="Rasm 3">
-</div>
+## Insert card for payment:
+<img src="static/process.jpg" alt="Rasm 1" style="width: 200px; height: 400px">
 
 
-##
+## Confirm payment button:
+<img src="static/verify.jpg" alt="Rasm 1" style="width: 200px; height: 400px">
+
+## Payment was successfully:
+<img src="static/success.jpg" alt="Rasm 1" style="width: 200px; height: 400px">
+
+
+
+
 
 
