@@ -65,8 +65,8 @@ print(resp.data.payment.payment_url)
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
     <img src="static/process.jpg" alt="Rasm 1">
-    <img src="static/process.jpg" alt="Rasm 2">
-    <img src="static/process.jpg" alt="Rasm 3">
+    <img src="static/verify.jpg" alt="Rasm 2">
+    <img src="static/success.jpg" alt="Rasm 3">
 </div>
 
 
