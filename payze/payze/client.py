@@ -66,11 +66,12 @@ class Payze:
             metadata=req_params.metadata
         )
 
-        req_params.hooks = self.hooks
-        req_params.metadata.extra_attributes = [
-            kwargs
-        ]
+        if req_params.metadata:
+            req_params.metadata.extra_attributes = [
+                kwargs
+            ]
 
+        req_params.hooks = self.hooks
         req_data = json.dumps(req_params.to_dict())
 
         resp_data = self.__send_request(url, req_data, "PUT")
