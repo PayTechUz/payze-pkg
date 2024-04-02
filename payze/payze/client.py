@@ -60,7 +60,9 @@ class Payze:
         url = f"{self.url}/v2/api/payment"
 
         req_params = payze_req.JustPay(
-            amount=req_params.amount
+            amount=req_params.amount,
+            idempotency_key=req_params.idempotency_key,
+            metadata=req_params.metadata
         )
         req_params.hooks = self.hooks
         req_data = json.dumps(req_params.to_dict())

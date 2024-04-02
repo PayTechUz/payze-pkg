@@ -32,10 +32,21 @@ payze = Payze(
     )
 )
 
+metadata = payze_req.Metadata(
+    order=payze_req.Order(123),
+    extra_attributes=[
+        {
+            "reason": "for_trip"
+        }
+    ]
+)
+
 resp = payze.just_pay(
     req_params=payze_req.JustPay(
-        amount=1  # UZS sum...
+        amount=1,
+        metadata=metadata
     )
 )
-print(resp)
+
+print(resp.data.payment.payment_url)
 ```

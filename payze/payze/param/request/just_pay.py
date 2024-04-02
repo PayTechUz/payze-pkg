@@ -17,6 +17,7 @@ class JustPay:
     source: str = "Card"
     currency: str = "UZS"
     hooks: base.Hooks = None
+    metadata: base.Metadata = None
     idempotency_key: str = str(uuid.uuid4())
 
     def to_dict(self):
@@ -29,4 +30,5 @@ class JustPay:
             "hooks": self.hooks.to_dict(),
             "idempotencyKey": self.idempotency_key,
             "source": self.source,
+            "metadata": self.metadata.to_dict()
         }

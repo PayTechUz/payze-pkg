@@ -2,6 +2,8 @@
 the just_pay response model
 """
 from typing import Optional
+
+from pydantic import Field
 from pydantic import BaseModel
 
 
@@ -56,7 +58,9 @@ class PaymentData(BaseModel):
     metadata: Optional[dict]
     network: Optional[str]
     payer: Optional[dict]
-    paymentUrl: str
+    payment_url: str = Field(
+        alias="paymentUrl"
+    )
     receipt: Optional[str]
     refundedAmount: Optional[int]
     refundedDate: Optional[str]
