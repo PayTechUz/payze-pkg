@@ -50,7 +50,6 @@ resp = payze.just_pay(
 print(resp.data.payment.payment_url)
 ```
 # Payment process at Payze
-# Payment process at Payze
 
 <div style="display: flex;">
     <img src="static/process.jpg" alt="Rasm 1" style="width: 33.33%;">
