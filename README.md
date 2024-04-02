@@ -55,11 +55,14 @@ print(resp.data.payment.payment_url)
 <img src="static/process.jpg" alt="Rasm 1" style="width: 200px; height: 400px">
 
 
-## Confirm payment button:
-<img src="static/verify.jpg" alt="Rasm 1" style="width: 200px; height: 400px">
+[//]: # (## Confirm payment button:)
 
-## Payment was successfully:
-<img src="static/success.jpg" alt="Rasm 1" style="width: 200px; height: 400px">
+[//]: # (<img src="static/verify.jpg" alt="Rasm 1" style="width: 200px; height: 400px">)
+
+[//]: # ()
+[//]: # (## Payment was successfully:)
+
+[//]: # (<img src="static/success.jpg" alt="Rasm 1" style="width: 200px; height: 400px">)
 
 
 
