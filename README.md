@@ -50,22 +50,12 @@ resp = payze.just_pay(
 print(resp.data.payment.payment_url)
 ```
 # Payment process at Payze
+<div style="display: flex;">
+    <img src="static/process.jpg" alt="Rasm 1" style="width: 33.33%;">
+    <img src="static/verify.jpg" alt="Rasm 2" style="width: 33.33%;">
+    <img src="static/success.jpg" alt="Rasm 3" style="width: 33.33%;">
+</div>
 
-[//]: # (<img src="static/process.jpg" alt="Sizning Rasm Manba" style="width: 200px; height: 400px">)
-![To'lov qilish uchun kartani kiritish](static/verify.jpg)
-
-
-[//]: # (## Confirm payment button:)
-
-[//]: # (<img src="static/verify.jpg" alt="Rasm 1" style="width: 200px; height: 400px">)
-
-[//]: # ()
-[//]: # (## Payment was successfully:)
-
-[//]: # (<img src="static/success.jpg" alt="Rasm 1" style="width: 200px; height: 400px">)
-
-
-
-
+##
 
 
