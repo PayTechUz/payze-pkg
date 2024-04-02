@@ -7,7 +7,7 @@ from setuptools import find_packages
 
 setup(
     name='payze-pkg',
-    version='2.2.4',
+    version='2.4',
     license='MIT',
     author="paytechuz",
     author_email='paytechuz@gmail.com',
