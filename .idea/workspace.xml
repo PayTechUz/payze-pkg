@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="04d38b12-02b5-4e46-a490-64b6675d69a4" name="Changes" comment="add images" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2eY6NT5Cogk1fMUKqrQICFXPrXq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;add-image&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/user/Documents/payze-pkg/static&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04d38b12-02b5-4e46-a490-64b6675d69a4" name="Changes" comment="" />
+      <created>1712069123616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712069123616</updated>
+      <workItem from="1712069124626" duration="4418000" />
+      <workItem from="1712078232829" duration="337000" />
+    </task>
+    <task id="LOCAL-00001" summary="add images">
+      <option name="closed" value="true" />
+      <created>1712074486285</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712074486285</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add images">
+      <option name="closed" value="true" />
+      <created>1712076472398</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712076472398</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add images">
+      <option name="closed" value="true" />
+      <created>1712076602539</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712076602539</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add images">
+      <option name="closed" value="true" />
+      <created>1712076719854</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712076719854</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add images">
+      <option name="closed" value="true" />
+      <created>1712076809748</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712076809748</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add images">
+      <option name="closed" value="true" />
+      <created>1712077085134</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712077085134</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add images">
+      <option name="closed" value="true" />
+      <created>1712077412639</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712077412639</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add images">
+      <option name="closed" value="true" />
+      <created>1712077429909</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1712077429909</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add images">
+      <option name="closed" value="true" />
+      <created>1712077517883</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1712077517883</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add images">
+      <option name="closed" value="true" />
+      <created>1712077647112</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1712077647112</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add images">
+      <option name="closed" value="true" />
+      <created>1712077743459</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1712077743459</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add images">
+      <option name="closed" value="true" />
+      <created>1712077810088</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1712077810088</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add images">
+      <option name="closed" value="true" />
+      <created>1712077950200</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1712077950200</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add images">
+      <option name="closed" value="true" />
+      <created>1712078008059</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1712078008059</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add images">
+      <option name="closed" value="true" />
+      <created>1712078147857</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1712078147857</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add images" />
+    <option name="LAST_COMMIT_MESSAGE" value="add images" />
+  </component>
+</project>
