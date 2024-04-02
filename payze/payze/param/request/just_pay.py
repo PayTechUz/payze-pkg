@@ -24,11 +24,14 @@ class JustPay:
         """
         the dict representation.
         """
+        if self.metadata:
+            self.metadata = self.metadata.to_dict()
+
         return {
             "amount": self.amount,
             "currency": self.currency,
             "hooks": self.hooks.to_dict(),
             "idempotencyKey": self.idempotency_key,
             "source": self.source,
-            "metadata": self.metadata.to_dict()
+            "metadata": self.metadata
         }
