@@ -62,7 +62,7 @@ print(resp.data.payment.payment_url)
 ## Payment was successfully:
 <img src="static/success.jpg" alt="Sizning Rasm Manba" width="600px" height="400px">
 
-<p float="left">
+<p float="left" style="display: flex">
   <img src="static/process.jpg" width="250" />
   <img src="static/verify.jpg" width="250" /> 
   <img src="static/success.jpg" width="250" />
