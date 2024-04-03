@@ -63,9 +63,9 @@ print(resp.data.payment.payment_url)
 <img src="static/success.jpg" alt="Sizning Rasm Manba" width="600px" height="400px">
 
 <p float="left">
-  <img src="static/process.jpg" width="300" />
-  <img src="static/process.jpg" width="300" /> 
-  <img src="static/process.jpg" width="300" />
+  <img src="static/process.jpg" width="250" />
+  <img src="static/process.jpg" width="250" /> 
+  <img src="static/process.jpg" width="250" />
 </p>
 
 ##
