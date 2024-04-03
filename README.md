@@ -64,8 +64,8 @@ print(resp.data.payment.payment_url)
 
 <p float="left">
   <img src="static/process.jpg" width="250" />
-  <img src="static/process.jpg" width="250" /> 
-  <img src="static/process.jpg" width="250" />
+  <img src="static/verify.jpg" width="250" /> 
+  <img src="static/success.jpg" width="250" />
 </p>
 
 ##
