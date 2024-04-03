@@ -49,19 +49,7 @@ resp = payze.just_pay(
 
 print(resp.data.payment.payment_url)
 ```
-# Payment process at Payze
-
-## Insert card for payment:
-<img src="static/process.jpg" alt="Sizning Rasm Manba" width="600px" height="400px">
-
-
-## Confirm payment button:
-<img src="static/verify.jpg" alt="Sizning Rasm Manba" width="600px" height="400px">
-
-
-## Payment was successfully:
-<img src="static/success.jpg" alt="Sizning Rasm Manba" width="600px" height="400px">
-
+# Payment process at Payze:
 <p float="left">
   <img src="static/process.jpg" width="250" height="250"/>
   <img src="static/verify.jpg" width="250" height="250"/> 
