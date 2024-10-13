@@ -23,7 +23,7 @@ from payze.param import request as payze_req
 payze = Payze(
     ops=PayzeOPS(
         url="https://payze.io",
-        auth_token="get-your-auth-token-from-payze",
+        auth_token="PAYZE_KEY:PAYZE_SECRET",
         hooks=payze_req.Hooks(
             web_hook_gateway="https://mysite.com/v1/webhook/payze/success",
             error_redirect_gateway="https://mysite.com/v1/payment/payze/re-pay",
