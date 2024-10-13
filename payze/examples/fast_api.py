@@ -40,6 +40,7 @@ def get_pay_link(order_id: str):
 
     req_params = payze_req.JustPay(
         amount=1,
+        currency="UZS",  # use currency= USD currency for VISA payments
         metadata=metadata,
     )
 
