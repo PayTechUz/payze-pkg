@@ -57,5 +57,3 @@ print(resp.data.payment.payment_url)
 </p>
 
 ##
-
-

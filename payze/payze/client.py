@@ -63,6 +63,8 @@ class Payze:
         req_params = payze_req.JustPay(
             amount=req_params.amount,
             idempotency_key=req_params.idempotency_key,
+            source=req_params.source,
+            currency=req_params.currency,
             metadata=req_params.metadata
         )
 
